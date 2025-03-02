@@ -1,7 +1,7 @@
 import React from "react";
 import { TypographyH2, TypographyH4, TypographyP } from "./typography";
 import { TTestimonials } from "@/lib/database/db";
-import BodyAdScript from "../globle/ad";
+import BodyAdScript from "../global/ad";
 import {
   Card,
   CardContent,

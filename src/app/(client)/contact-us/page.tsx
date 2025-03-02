@@ -1,5 +1,5 @@
 import { TypographyP } from "@/components/custom/typography";
-import { AlertDestructive } from "@/components/globle/error";
+import { AlertDestructive } from "@/components/global/error";
 import { getContactPageCachedData, getSeoCachedData } from "@/lib/cache-data";
 import { Contact } from "@/lib/database/db";
 import { Metadata } from "next";

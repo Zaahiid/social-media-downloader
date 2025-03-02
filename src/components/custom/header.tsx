@@ -16,7 +16,7 @@ import {
   CollapsibleTrigger,
 } from "@/components/ui/collapsible";
 import { ChevronDown } from "lucide-react";
-import LogoWrapper, { HeaderLogo } from "../globle/logo-wrapper";
+import LogoWrapper, { HeaderLogo } from "../global/logo-wrapper";
 import {
   Card,
   CardContent,
@@ -25,7 +25,7 @@ import {
   CardHeader,
   CardTitle,
 } from "@/components/ui/card";
-import { NonBodyAsScript } from "../globle/ad";
+import { NonBodyAsScript } from "../global/ad";
 
 const Header = ({ headerCode }: { headerCode: string }) => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);

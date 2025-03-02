@@ -7,7 +7,7 @@ import {
   FormLabel,
   FormMessage,
 } from "@/components/ui/form";
-import Tiptap from "../globle/tiptap";
+import Tiptap from "../global/tiptap";
 import { GeneralFormType } from "@/app/(admin)/admin";
 
 const ContentEditor = ({

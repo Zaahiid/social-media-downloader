@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { TypographyP } from "./typography";
-import { NonBodyAsScript } from "../globle/ad";
+import { NonBodyAsScript } from "../global/ad";
 
 const footerLinks = [
   {

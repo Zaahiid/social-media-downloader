@@ -1,5 +1,5 @@
 import FooterEditor from "@/components/admin/footer-editor";
-import { AlertDestructive } from "@/components/globle/error";
+import { AlertDestructive } from "@/components/global/error";
 import { getFooterData } from "@/lib/fetch";
 import { Metadata } from "next";
 

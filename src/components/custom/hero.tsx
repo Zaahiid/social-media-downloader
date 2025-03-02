@@ -10,7 +10,7 @@ import {
   CardHeader,
   CardTitle,
 } from "@/components/ui/card";
-import BodyAdScript from "../globle/ad";
+import BodyAdScript from "../global/ad";
 
 const Hero = ({
   content,

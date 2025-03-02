@@ -1,5 +1,5 @@
 import ContactEditor from "@/components/admin/contact-editor";
-import { AlertDestructive } from "@/components/globle/error";
+import { AlertDestructive } from "@/components/global/error";
 import { Contact } from "@/lib/database/db";
 import { getContactPageData } from "@/lib/fetch";
 import { Metadata } from "next";

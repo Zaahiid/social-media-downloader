@@ -1,5 +1,5 @@
 import ScriptEditor from "@/components/admin/script-editor";
-import { AlertDestructive } from "@/components/globle/error";
+import { AlertDestructive } from "@/components/global/error";
 import { Script } from "@/lib/database/db";
 import { getScriptData } from "@/lib/fetch";
 import { Metadata } from "next";

@@ -6,7 +6,7 @@ import {
   } from "@/components/ui/accordion";
   import { TypographyH2 } from "./typography";
   import { FAQItem } from "@/lib/database/db";
-  import BodyAdScript from "../globle/ad";
+  import BodyAdScript from "../global/ad";
   import {
     Card,
     CardContent,

@@ -26,7 +26,7 @@ import { evarConts } from "@/lib/constants/evarConts";
 import { showToast } from "@/lib/utils";
 import { useState } from "react";
 import { Loader } from "lucide-react";
-import Tiptap from "../globle/tiptap";
+import Tiptap from "../global/tiptap";
 import { Policy } from "@/lib/database/db";
 
 const formSchema = z.object({

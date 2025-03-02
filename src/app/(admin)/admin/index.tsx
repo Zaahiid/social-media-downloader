@@ -7,7 +7,7 @@ import FooterEditor from "@/components/admin/footer-editor";
 import GuideEditor from "@/components/admin/guide-editor";
 import HeroEditor from "@/components/admin/hero-editor";
 import TestimonialEditor from "@/components/admin/testimonial-editor";
-import { AlertDestructive } from "@/components/globle/error";
+import { AlertDestructive } from "@/components/global/error";
 import { Button } from "@/components/ui/button";
 import {
   Form,

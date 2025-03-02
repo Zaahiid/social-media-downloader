@@ -1,4 +1,4 @@
-import ActivationForm from "@/components/globle/activation-form";
+import ActivationForm from "@/components/global/activation-form";
 import { getProductInfo } from "@/lib/fetch";
 import { redirect } from "next/navigation";
 

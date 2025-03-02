@@ -1,5 +1,5 @@
 import PolicyEditor from "@/components/admin/policy-editor";
-import { AlertDestructive } from "@/components/globle/error";
+import { AlertDestructive } from "@/components/global/error";
 import { Policy } from "@/lib/database/db";
 import { getPolicyPageData } from "@/lib/fetch";
 import { Metadata } from "next";

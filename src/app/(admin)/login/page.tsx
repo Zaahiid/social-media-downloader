@@ -1,5 +1,5 @@
 import { TypographyH2 } from "@/components/custom/typography";
-import LoginForm from "@/components/globle/login";
+import LoginForm from "@/components/global/login";
 import { Metadata } from "next";
 import {
   Card,
